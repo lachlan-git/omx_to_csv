@@ -1,0 +1,8 @@
+pandas
+numpy
+OpenMatrix
+streamlit
+# beautifulsoup4
+# scipy
+# lxml
+# mpmath
